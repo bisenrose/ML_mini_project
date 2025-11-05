@@ -20,6 +20,3 @@ Being able to discover similar clinical studies is critical for therapeutic prod
 - Model Additional Usage and Extension
     - Use as a data recovery method
     - Use kernel for feature mapping
-
-## Full Report
-Please see xliniq.pdf.
