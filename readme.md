@@ -1,5 +1,6 @@
 ## Abstract
 Being able to discover similar clinical studies is critical for therapeutic product development. However, due to the complexity of medical research and terminology, a query may not contain all the necessary keywords, affecting the final search results. Here, a keyword-recommending algorithm using collaborative filtering is developed and examined. The recommended keywords can be used in the downstream document matching algorithm, providing a potentially more accurate way of retrieving similar documents.
+Paper which the project is based on can be found under: xliniq.pdf
 
 ## Content
 - Data Extraction, transformation and load: 
